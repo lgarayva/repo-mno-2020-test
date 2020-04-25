@@ -1,0 +1,94 @@
+    1  ls
+    2  pwd
+    3  sudo adduser leon
+    4  sudo su leon
+    5  exit
+    6  sudo nano /etc/ssh/sshd_config
+    7  sudo service sshd restart
+    8  exit
+    9  sudo su leon
+   10  exit
+   11  sudo apt-get install docker-io 
+   12  sudo apt-get install docker.io. git 
+   13  sudo apt-get install docker.io git 
+   14  Wget git.raw,file 
+   15  la
+   16  pwd
+   17  git clone https://github.com/paola-md/dpa_rita
+   18  ls
+   19  cd 
+   20  cd dpa_rita/
+   21  zsh
+   22  sudo apt install zsh
+   23  zsh
+   24  VERSION=5.0.0
+   25  REPO_URL=paolamedo/aws_rita
+   26  BUILD_DIR=/home/paola/Documents/MCD/ProductoDatos/PROYECTO/dpa_rita
+   27  docker pull $REPO_URL:$VERSION
+   28  apt install docker.io
+   29  docker pull $REPO_URL:$VERSION
+   30  sudo apt install docker.io
+   31  docker pull $REPO_URL:$VERSION
+   32  apt update
+   33  sudo apt install docker.io
+   34  sudo apt-get update
+   35  docker pull $REPO_URL:$VERSION
+   36  sudo apt install docker.io
+   37  docker pull $REPO_URL:$VERSION
+   38  VERSION=5.0.0
+   39  $VERSION
+   40  REPO_URL=paolamedo/aws_rita
+   41  BUILD_DIR=/home/paola/Documents/MCD/ProductoDatos/PROYECTO/dpa_rita
+   42  docker pull $REPO_URL:$VERSION
+   43  sudo usermod -a -G docker jenkins
+   44  sudo usermod -a -G docker
+   45  usermod -aG docker jenkins
+   46  usermod -aG root jenkins
+   47  chmod 664 /var/run/docker.sock
+   48  sudo usermod -a -G docker $USER
+   49  reboot
+   50  docker pull $REPO_URL:$VERSION
+   51  VERSION=5.0.0
+   52  REPO_URL=paolamedo/aws_rita
+   53  BUILD_DIR=/home/paola/Documents/MCD/ProductoDatos/PROYECTO/dpa_rita
+   54  docker pull $REPO_URL:$VERSION
+   55  sudo usermod -a -G docker $USER
+   56  reboot
+   57  docker pull $REPO_URL:$VERSION
+   58  sudo usermod -a -G docker $USER
+   59  docker pull $REPO_URL:$VERSION
+   60  docker pull paolamedo/aws_rita:5.0.0
+   61  sudo usermod -aG docker ${USER}
+   62  su -s ${USER}
+   63  leon00
+   64  su -s ${USER}
+   65  su leon
+   66  su -s ${USER}
+   67  su leon
+   68  exec "$SHELL"
+   69  docker pull paolamedo/aws_rita:5.0.0
+   70  docker pull ubuntu
+   71  docker run -it --rm ubuntu
+   72  docker pull  ubuntu
+   73  docker run -it --rm ubuntu
+   74  cd
+   75  ls
+   76  docker run -it --rm ubuntu
+   77  exit
+   78  docker run -it --rm ubuntu
+   79  VERSION=5.0.0
+   80  REPO_URL=paolamedo/aws_rita
+   81  BUILD_DIR=/home/paola/Documents/MCD/ProductoDatos/PROYECTO/dpa_rita
+   82  docker pull $REPO_URL:$VERSION
+   83  docker build $(pwd) --force-rm -t $REPO_URL:$VERSION
+   84  docker run --rm --name rita -it -v $BUILD_DIR:/home  -v $HOME/.aws:/root/.aws:ro  -v $HOME/.rita:/root/.rita --entrypoint "/bin/bash"  $REPO_URL:$VERSION
+   85  ls
+   86  cd dpa_rita/
+   87  sudo python setup.py install
+   88  sudo python3 setup.py install
+   89  history
+   90  cd 
+   91  git clone https://github.com/lgarayva/repo-mno-2020-test
+   92  cd repo-mno-2020-test/
+   93  history history.txt
+   94  history >  history.txt
