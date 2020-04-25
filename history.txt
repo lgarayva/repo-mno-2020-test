@@ -60,7 +60,7 @@
    60  docker pull paolamedo/aws_rita:5.0.0
    61  sudo usermod -aG docker ${USER}
    62  su -s ${USER}
-   63  leon00
+   63  su leon
    64  su -s ${USER}
    65  su leon
    66  su -s ${USER}
